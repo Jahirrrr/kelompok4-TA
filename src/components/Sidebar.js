@@ -18,7 +18,7 @@ const Sidebar = () => {
   <SidebarContainer>
     <aside className={`${isSideBarOpen ? 'sidebar show-sidebar' :'sidebar'}`}>
       <div className='sidebar-header'>
-        <h3>P5BK Website</h3>
+        <h3>Kelompok 4</h3>
         <button className='close-btn' type='button' onClick={closeSideBar}>
           <FaTimes/>
         </button>
